@@ -63,7 +63,7 @@ public class Login_Step extends BaseClass {
 	public void user_enter_email_as_and_password_as(String email, String password) {
 		page.setEmail(email);
 		page.setPassword(password);
-		logger.info("****User id and password enter successfully in application****");
+		logger.info("****User id and password enter successfully****");
 
 	}
 
